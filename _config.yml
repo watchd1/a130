@@ -10,6 +10,7 @@ exclude:
 - ".gitignore"
 - ".travis.yml"
 - todo.txt
+- CNAME
 - resources
 - Gemfile
 - Gemfile.lock
