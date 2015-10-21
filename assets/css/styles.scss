@@ -1,3 +1,6 @@
+---
+---
+
 @import "bourbon/bourbon";
 @import "neat/neat";
 
@@ -12,7 +15,7 @@ $link-hover:          #7eb8dd;
 
 $header-height:        80px;
 $header-height-mobile: 65px;
-
+``
 // Fonts
 $serif:               "Merriweather", "Georgia", "Times New Roman", serif;
 $sans-serif:          "Open Sans", Arial, sans-serif;
@@ -85,14 +88,14 @@ table {
 td {
     text-align:left;
     font-weight:normal;
-    vertical-align:middle; 
-    border:1px solid black; 
+    vertical-align:middle;
+    border:1px solid black;
     padding:5px;
 }
 
-th {border: 1px solid black; 
+th {border: 1px solid black;
     padding:5px;}
-    
+
 /** Overall structure, desktop and mobile */
 
 header {

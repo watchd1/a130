@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "Circular A-130"
 description: "Circular A-130: Managing Information as a Strategic Resource"
-baseurl: https://ombegov.github.io/a130
+#baseurl: https://ombegov.github.io/a130
 
 # GitHub information
 org_name: ombegov
@@ -60,3 +60,7 @@ navigation:
   url: /a130/appendix2/
 - text: Appendix III
   url: /a130/appendix3/
+
+# sass
+sass:
+  sass_dir: _sass
