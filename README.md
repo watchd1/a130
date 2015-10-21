@@ -1,8 +1,8 @@
 ## Circular A-130: Managing Information as a Strategic Resource
 
-The [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is proposing to revise [Circular No. A-130, Managing Information as a Strategic Resource] (https://a130.cio.gov), to incorporate new statutory requirements and enhanced technological capabilities, as well as address current and evolving technical and personal security threats. 
+The [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is proposing to revise [Circular No. A-130, Managing Information as a Strategic Resource] (https://a130.cio.gov), to incorporate new statutory requirements and enhanced technological capabilities, as well as address current and evolving technical and personal security threats.
 
-The proposed guidance is now open for public comment on this page. The public feedback period will be 30 days, closing on November 20, 2015. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary. 
+The proposed guidance is now open for public comment on this page. The public feedback period will be 30 days, closing on November 20, 2015. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.
 
 ### Public domain
 
@@ -20,12 +20,6 @@ Install dependencies with Bundler:
 
 ```
 bundle install
-```
-
-Start up a Sass watcher to keep assets auto-compiled:
-
-```
-make watch
 ```
 
 And run the site with Jekyll:
