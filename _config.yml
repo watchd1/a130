@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "Circular A-130"
 description: "Circular A-130: Managing Information as a Strategic Resource"
-baseurl: https://ombegov.github.io/a130
+baseurl: ''
 
 # GitHub information
 org_name: ombegov
