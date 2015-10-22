@@ -12,6 +12,10 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 >
 > All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
 
+### Privacy
+
+All comments, messages, pull requests, and other submissions received through official White House pages including this GitHub page may be subject to archiving requirements. See the https://www.whitehouse.gov/privacy for more information.
+
 ### Developing on the site locally
 
 This site uses [Jekyll](http://jekyllrb.com), [Sass](http://sass-lang.com), [Bourbon](http://bourbon.io), [Neat](http://neat.bourbon.io), and requires **Ruby 2.x**.
