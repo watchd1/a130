@@ -23,6 +23,8 @@ exclude:
 name: "Circular A-130"
 description: "Circular A-130: Managing Information as a Strategic Resource"
 baseurl: https://ombegov.github.io/a130
+# Uncomment the following line for localhost development at http://127.0.0.1:4000/a130/
+#baseurl: /a130
 
 # GitHub information
 org_name: ombegov
