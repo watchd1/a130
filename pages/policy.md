@@ -248,7 +248,7 @@ Agencies shall:
 
 4) Agencies shall ensure that the public can appropriately use disseminated information by:
 
-  a) Publishing information online in a, machine-readable open format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications and is public, accessible, described, reusable, complete, timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
+  a) Publishing information online in a machine-readable open format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications and is public, accessible, described, reusable, complete, and timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
   
   b) Avoid establishing, or permitting others to establish on their behalf, exclusive, restricted, or other distribution arrangements that interfere with allowing the agency to disseminate its information on a timely and equitable basis. In certain cases, it may be appropriate to engage in time-limited restrictions or exclusively in cases where the agency, due to resource constraints, would otherwise be unable to provide the information to the public on its own;
   
