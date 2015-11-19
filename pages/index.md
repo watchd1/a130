@@ -13,7 +13,7 @@ The proposed revisions to the Circular are the result of new statutory requireme
 
 The proposed Circular reflects a rapidly evolving digital economy, where more than ever, individuals, groups, and organizations rely on information technology to carry out a wide range of missions and business functions. Information technology changes rapidly and the Federal workforce managing IT must have the flexibility to address known and emerging threats while implementing continuous improvements. This update acknowledges the pace of change and the need to increase capabilities provided by 21st century technology while recognizing the need for strong governance and safeguarding of taxpayer funded assets and information. 
 
-The proposed guidance is now open for public comment on this page. **The public feedback period will be 30 days, closing on November 20, 2015.** Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.
+The proposed guidance is now open for public comment on this page. ~~**The public feedback period will be 30 days, closing on November 20, 2015.**~~ The public feedback period has been extended by 15 days. The new deadline for public feedback is December 5, 2015. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.
 
 ### Instructions for Public Comment
 
