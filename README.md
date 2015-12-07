@@ -2,7 +2,7 @@
 
 The [Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is proposing to revise [Circular No. A-130, Managing Information as a Strategic Resource] (https://a130.cio.gov), to incorporate new statutory requirements and enhanced technological capabilities, as well as address current and evolving technical and personal security threats.
 
-The proposed guidance is now open for public comment on this page. ~~The public feedback period will be 30 days, closing on November 20, 2015.~~ The public feedback period has been extended by 15 days. The new deadline for public feedback is December 5, 2015. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.
+The public feedback period has ended. Thank you for your comments. ~~The proposed guidance is now open for public comment on this page. The public feedback period will be 30 days, closing on November 20, 2015. The public feedback period has been extended by 15 days. The new deadline for public feedback is December 5, 2015. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.~~ 
 
 ### Public domain
 
