@@ -1,7 +1,7 @@
 # markdown
 markdown: redcarpet
 redcarpet:
-  extensions: ["superscript","tables","with_toc_data"]
+  extensions: ["superscript","tables","with_toc_data","strikethrough"]
 highlighter: pygments
 
 exclude:
