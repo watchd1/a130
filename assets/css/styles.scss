@@ -16,6 +16,7 @@ $link-hover:          #7eb8dd;
 $header-height:        80px;
 $header-height-mobile: 65px;
 
+
 // Fonts
 $serif:               "Merriweather", "Georgia", "Times New Roman", serif;
 $sans-serif:          "Open Sans", Arial, sans-serif;
@@ -344,3 +345,66 @@ a.skip-link:focus {
 .invisible {
     visibility: hidden;
 }
+
+
+
+
+.usa-alert {
+  background-color: $mid-gray;
+  background-position: 1rem 2rem;
+  background-repeat: no-repeat;
+  background-size: 4rem;
+  margin-top: 1.5em;
+  padding: 1em;
+
+  @include media($mobile) {
+    background-size: 5.2rem;
+  }
+
+  ul {
+    margin-bottom: 0;
+    margin-top: 1em;
+  }
+}
+
+.usa-alert-icon {
+  display: table-cell;
+  padding-right: 1rem;
+}
+
+.usa-alert-body {
+  display: table-cell;
+  padding-left: 4.5rem;
+  vertical-align: top;
+
+  @include media($mobile) {
+    padding-left: 5rem;
+  }
+}
+
+.usa-alert-heading {
+  margin-bottom: .3rem;
+  margin-top: 0;
+
+  @include media($mobile) {
+    margin-top: .3rem;
+  }
+}
+
+.usa-alert-text {
+  font-family: $sans-serif;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.usa-alert-warning {
+  background-color: #fff1d2;
+  background-image: url('../img/alerts/warning.png');
+  background-image: url('../img/alerts/warning.svg');
+}
+
+
+.usa-alert-no_icon {
+  background-image: none;
+}
+
